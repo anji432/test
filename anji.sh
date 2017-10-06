@@ -4,7 +4,6 @@
 echo "please enter num1"
 read num1
 
-num2=0
 while true; do
 echo  -n "Please enter 2 input"
 read num2 
