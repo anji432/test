@@ -21,6 +21,10 @@ read num2
 		     
 		     *) 
 		sum=`expr $num1 / $num2`
+	
+		mul=`expr $num1 \\* $num2`
+	
+		echo "multiplcation is $mul"
 		echo "first number is $num1"
 		echo "secound number is $num2"
 		echo "Division is $sum"
