@@ -3,7 +3,8 @@
 #!/bin/bash
 echo "please enter num1"
 read num1
-
+########################
+####################################
 while true; do
 echo  "Please enter 2 input"
 read num2 
